@@ -56,7 +56,7 @@ Accessing the project involves a few steps:
 
 **Step 1 :** Clone the repository
 ```
-    git clone https://github.com/AkshataKamerkar/MultiApp
+    git clone https://github.com/AASHISH-KUMAR-RA/MultiApp
 
 ```
 
@@ -107,7 +107,7 @@ If there's a requirements.txt file in the project, this command installs all the
 ## Video
 
 
-https://github.com/AkshataKamerkar/MultiApp/assets/98729105/fbe4388e-462a-474a-9b4f-72d1efd4339a
+https://github.com/AASHISH-KUMAR-RA/MultiApp/assets/98729105/fbe4388e-462a-474a-9b4f-72d1efd4339a
 
 
 
